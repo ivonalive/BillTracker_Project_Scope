@@ -63,11 +63,14 @@ Application will fully support browsers listed below. All browsers or versions n
 
 # Technologies
 
-* Node  
-* Express  
-* React  
-* Postgresql  
+* Node.js
+* JavaScript
+* Express
+* React
+* PostgreSQL
+* Git
 * Heroku
+
 
 
 \*prone to change\*  
