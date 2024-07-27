@@ -1,4 +1,4 @@
-# Solo-Project
+# Solo_Project_Scope
 
 # BillTracker
 
