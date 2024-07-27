@@ -15,19 +15,19 @@ To help relieve stress BillTracker allows users to take a look at their upcoming
 
 ### 1.1 Log-in and Register (desktop)
 
-IMAGE
+![Log-in and Register](WelcomePage.jpeg)
 
 Background of the log-in and register page is an example of the look of the app to attract users to register. Having a register window on the page makes it easier to register. Register window consists of fields with first name, last name, email and password. For existing users we have the sign in window that requires email and password.
 
 ### 1.2 Navigation
 
-IMAGE
+![Navigation](Navigation.jpg)
 
 The user can switch views from monthly to weekly on every page. As well as the users initials will be accessible on and page and upon clicking will give an option to log out.  
 
 ### 1.3 Add Bill
 
-IMAGE
+![Add Bill Future](AddBill.jpg)
 
 When a user hover over a date an option to Add a Bill appears. Once clicked it opens a form with fields for bills information. Basic information is the bill’s name and amount and optional is payment information. Users can paste a link to their bill’s payment information for easier future allocation of the page, or they can put what card they are using and that way they know where the money will be taken from. 
 
@@ -49,7 +49,7 @@ Stretch: Google Calendar API
 
 # Database Structure
 
-IMAGE
+![Database Structure](DatabaseStructure.png)
 
 Used [https://dbdesigner.net/](https://dbdesigner.net/) for the diagram
 
