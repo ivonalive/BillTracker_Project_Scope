@@ -13,13 +13,19 @@ To help relieve stress BillTracker allows users to take a look at their upcoming
 
 # Functional Requirements
 
-### 1.1 Log-in and Register (desktop)
+### 1.0 Log-in and Register (desktop)
 
 ![Log-in and Register](WelcomePage.jpeg)
 
 Background of the log-in and register page is an example of the look of the app to attract users to register. Having a register window on the page makes it easier to register. Register window consists of fields with first name, last name, email and password. For existing users we have the sign in window that requires email and password.
 
-### 1.2 Navigation
+### 2.0 Home page (calendar view)
+
+![Home Page](HomePage.jpg)
+
+Home page will have the monthly calendar view upon opening. Top right corner will be navigation. Users will have the overview of their bills and have an option to click any bill and view its information. When hovering over the number of a date an option ‘+’ will appear that will allow users to add a new bill.
+
+### 2.1 Navigation
 
 ![Navigation](Navigation.jpg)
 
@@ -29,7 +35,7 @@ The user can switch views from monthly to weekly on every page. As well as the u
 
 ![Add Bill Future](AddBill.jpg)
 
-When a user hover over a date an option to Add a Bill appears. Once clicked it opens a form with fields for bills information. Basic information is the bill’s name and amount and optional is payment information. Users can paste a link to their bill’s payment information for easier future allocation of the page, or they can put what card they are using and that way they know where the money will be taken from. 
+When users hover over a date’s number an option ‘+’ to add a new bill appears. Once clicked it opens a form with fields for the bill’s information. Basic information is the bill’s name and amount. The optional is payment information. Users can paste a link to their bill’s payment information for easier future allocation of the page, or they can put a name of the card they are using and that way they know where the money will be taken from. 
 
 # 3rd Party API
 
