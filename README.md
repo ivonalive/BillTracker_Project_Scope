@@ -31,8 +31,11 @@ Home page will have the monthly calendar view upon opening. Top right corner wil
 
 The user can switch views from monthly to weekly on every page. As well as the users initials will be accessible on and page and upon clicking will give an option to log out.  
 
-### 2.2 View Bill
+### 2.2 Bill View
 
+![Bill View](BillView.jpg)
+
+Users are able to click on a bill and open its information. Bill view has an option to edit name, amount, date due or switch from auto to payment link. Delete button allows users to delete the entire bill.
 
 ### 2.3 Add Bill
 
