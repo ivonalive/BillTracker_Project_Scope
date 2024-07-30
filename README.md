@@ -31,7 +31,10 @@ Home page will have the monthly calendar view upon opening. Top right corner wil
 
 The user can switch views from monthly to weekly on every page. As well as the users initials will be accessible on and page and upon clicking will give an option to log out.  
 
-### 1.3 Add Bill
+### 2.2 View Bill
+
+
+### 2.3 Add Bill
 
 ![Add Bill Future](AddBill.jpg)
 
