@@ -35,13 +35,13 @@ The user can switch views from monthly to weekly on every page. As well as the u
 
 ![Bill View](BillView.jpg)
 
-Users are able to click on a bill and open its information. Bill view has an option to edit name, amount, date due or switch from auto to payment link. Delete button allows users to delete the entire bill.
+Users are able to click on a bill and open its information in a pop up window. Bill view displays name, amount, due date payment information. The “Delete” button allows users to delete the entire bill. Once clicked the “Edit” button replaced the bill view pop up. On edit pop up users can edit all the bill information and save it.
 
 ### 2.3 Add Bill
 
 ![Add Bill Future](AddBill.jpg)
 
-When users hover over a date’s number an option ‘+’ to add a new bill appears. Once clicked it opens a form with fields for the bill’s information. Basic information is the bill’s name and amount. The optional is payment information. Users can paste a link to their bill’s payment information for easier future allocation of the page, or they can put a name of the card they are using and that way they know where the money will be taken from. 
+When users hover over a date’s number an option “+” to add a new bill appears. Once clicked it opens a pop up form with fields for the bill’s information. Basic information is the bill’s name and amount. The optional is payment information. Users can paste a link to their bill’s payment information for easier future allocation of the page, or they can put a name of the card they are using and that way they know where the money will be taken from. After the “Save” button is clicked the pop up form closes and bill appears on the date added. Users get to stay on the monthly view page at all times.
 
 # 3rd Party API
 
