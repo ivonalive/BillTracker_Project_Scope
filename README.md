@@ -82,7 +82,7 @@ Application will fully support browsers listed below. All browsers or versions n
 * PostgreSQL
 * Git
 * Heroku
+* react-big-calendar
 
 
 
-\*prone to change\*  
